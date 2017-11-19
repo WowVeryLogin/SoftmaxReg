@@ -1,2 +1,2 @@
 # SoftmaxReg
-Алгоритм softmax regression для mnist
+Softmax regression algorithm for mnist problem
